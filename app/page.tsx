@@ -26,7 +26,7 @@ export default function Home() {
           <h1 className="mt-5 text-[2.5rem] font-bold uppercase leading-10 lg:text-[4rem] lg:leading-[4rem]">
             Powerful insights into your team
           </h1>
-          <p className="mt-4 max-w-[16.625rem] text-lg leading-[1.625rem] opacity-75 lg:mt-[1.75rem] lg:tracking-[0.1rem]">
+          <p className="mt-4 max-w-[18rem] text-lg leading-[1.625rem] opacity-75 lg:mt-[1.75rem] lg:tracking-[0.1rem]">
             Project planning and time tracking for agile teams
           </p>
           <div className="mt-[1.69rem] flex items-center gap-5 lg:mt-16 lg:gap-6">
