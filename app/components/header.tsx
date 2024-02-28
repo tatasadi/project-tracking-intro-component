@@ -26,19 +26,25 @@ const Header: React.FC = () => {
         >
           <ul className="flex flex-col items-center gap-6 text-lg font-bold uppercase leading-6 tracking-[0.075rem] md:flex-row md:gap-[2.62rem] md:text-[0.9375rem] md:tracking-[0.0625rem]">
             <li>
-              <Link href="#">Product</Link>
+              <Link href="#" className="hover:underline">
+                Product
+              </Link>
             </li>
             <li>
-              <Link href="#">Features</Link>
+              <Link href="#" className="hover:underline">
+                Features
+              </Link>
             </li>
             <li>
-              <Link href="#">Pricing</Link>
+              <Link href="#" className="hover:underline">
+                Pricing
+              </Link>
             </li>
             <li className="w-full">
               <span className="block h-[0.0625rem] w-full bg-very-dark-blue/15 md:h-[0.375rem] md:w-[0.375rem] md:rounded-full"></span>
             </li>
             <li>
-              <Link href="#" className="opacity-50">
+              <Link href="#" className="opacity-50 hover:underline">
                 Login
               </Link>
             </li>

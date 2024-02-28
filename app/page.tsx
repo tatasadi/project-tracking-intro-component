@@ -30,7 +30,7 @@ export default function Home() {
             Project planning and time tracking for agile teams
           </p>
           <div className="mt-[1.69rem] flex items-center gap-5 lg:mt-16 lg:gap-6">
-            <button className="rounded-[0.3125rem] bg-red px-6 py-3 text-sm font-bold uppercase tracking-[0.05831rem] text-white lg:px-8 lg:text-base lg:tracking-[0.06669rem]">
+            <button className="rounded-[0.3125rem] bg-red px-6 py-3 text-sm font-bold uppercase tracking-[0.05831rem] text-white hover:bg-red/75 lg:px-8 lg:text-base lg:tracking-[0.06669rem]">
               Schedule a Demo
             </button>
             <p className="text-sm uppercase tracking-[0.15625rem] opacity-50 lg:text-[0.9375rem] lg:tracking-[0.3125rem]">
