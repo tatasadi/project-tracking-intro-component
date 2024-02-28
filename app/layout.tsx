@@ -8,7 +8,7 @@ const barlowCondensed = Barlow_Condensed({
 })
 
 export const metadata: Metadata = {
-  title: "News Homepage",
+  title: "Project Tracking Intro Component",
   description: "A Challenge from Frontend Mentor!",
 }
 
